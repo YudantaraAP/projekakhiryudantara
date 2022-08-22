@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98850677932",
+    "project_id": "yudantara-5cf24",
+    "storage_bucket": "yudantara-5cf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98850677932:android:5cb90b618188a4e147eb09",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98850677932-rem3lq7albp4qujmjahf5qanuo86kg18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOvagkKzVG1-LKGvNH5xaRz0f_VkOgcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98850677932-rem3lq7albp4qujmjahf5qanuo86kg18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
